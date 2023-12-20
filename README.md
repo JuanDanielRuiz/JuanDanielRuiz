@@ -63,4 +63,34 @@ Como Pentester , quise explorar el Desarrollo Web, así que comencé a tomar cur
 Cambiar de carrera fue un desafío, pero me adapté fácilmente porque disfruto superándome para adquirir nuevos conocimientos y experiencias que me ayuden a crecer tanto profesional como personalmente.
 
 Siempre estoy encantado de seguir creciendo, aprendiendo, colaborando y trabajando con gran pasión y dedicación para lograr los mejores resultados en cada proyecto en el que me involucro. 🚀✨ Si estás buscando a alguien como yo, ¡no dudes en ponerte en contacto! ¡Sería un placer trabajar juntos! 😊<p/></p>
-  
+
+  ```javascript
+const darkie = {
+    pronouns: "he" | "him",
+    code: ["typescript", "dart", "c#", "python", "php"],
+    askMeAbout: ["web dev", "tech", "app dev", "game dev", "machine learning"],
+    technologies: {
+        frontEnd: {
+            js: ["react", "next", "vue", "nuxt", "react native", "ionic"],
+            css: ["material-ui", "vuetify", "bootstrap", "bulma"],
+            dart: ["flutter"]
+        },
+        backEnd: {
+            js: ["node", "express", "adonis", "strapi"],
+            php: ["laravel"],
+            ai: ["brainJS"],
+        },
+        testing: ['cypress'],
+        services: ["firebase", "AWS", "Gpay", "Appodeal"],
+        deploy_systems: ["github actions", "heroku", "firebase", "G-play console"],
+        virtualization: ["docker🐳"],
+        databases: ["postgresql", "mysql", "sqlite", "redis"],
+        misc: ["python"]
+    },
+    architecture: ["serverless", "pwa", "spa", "clean"],
+    currentProjects: ["Native Coded PSX Game", "Food Delivery App"],
+    funFact: "I hate repeating myself. Muda (It's useless) - Giorno Giovanna"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
